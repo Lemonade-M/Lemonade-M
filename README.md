@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lemonade-M
+- 👋 Hi, I’m @NicoleMao
 - 👀 I’m interested in design and code
 - 📫 How to reach me nicolemao.me@gmail.com
 
